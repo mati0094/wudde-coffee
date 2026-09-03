@@ -45,7 +45,6 @@ function App() {
           <a href="#story">Our story</a>
           <a href="#visit">Contact us</a>
         </nav>
-        <a className="header-cta" href="#visit">Contact us <span>↗</span></a>
       </header>
 
       <section className="hero" id="top">
